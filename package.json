@@ -1,0 +1,23 @@
+{
+  "name": "abhi",
+  "version": "1.0.0",
+  "description": "This is a simple web application built with Node.js and Express.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsairama/abhi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dsairama/abhi/issues"
+  },
+  "homepage": "https://github.com/dsairama/abhi#readme",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
